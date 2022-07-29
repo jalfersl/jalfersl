@@ -2,7 +2,7 @@
 <div style="display: inline-flex">
   <a href="https://github.com/jalfersl">
   <img src="https://github-readme-stats.vercel.app/api?username=jalfersl&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalfersl&langs_count=7&layout=compact&theme=vue-dark "/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalfersl&langs_count=7&theme=vue-dark "/>
   </a>
 </div>
 <br/>

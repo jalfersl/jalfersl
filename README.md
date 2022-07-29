@@ -5,8 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalfersl&langs_count=7&&layout=compact&theme=tokyonight "/>
 </div>
 <br/>
-<br/>
-  
+
 ## 
   
 **Languages and Tools:**

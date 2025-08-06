@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jardel Fuchter
-- 👀 I’m interested in HTML, CSS, JavaScript, Vue.js, Laravel
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jardel-fuchter/) 
 
 <div style="display: inline_block; font-size: 5px">
